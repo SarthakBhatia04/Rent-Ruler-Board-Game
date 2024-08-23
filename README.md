@@ -13,8 +13,8 @@ In a game where the goal is to bankrupt the other person, some monopolies now ha
 In an attempt to add more elements to the game, I hope to make people think about their decisions and make it not more so of luck but of money management and predictability.
 
 ## What Languages/tools/technologies did I use?
--Python
--Tykl
+- Python
+- Tykl
 
 ## What are the input and outputs for the project
 ### Output:
