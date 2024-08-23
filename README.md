@@ -31,11 +31,11 @@ In an attempt to add more elements to the game, I hope to make people think abou
 - Players can set their own rent prices for properties they purchase, adding a strategic element to the game.
 - Properties are visually represented on the game board, with a real-time display of ownership and rent values.
 - The game prompts players with decisions for purchasing properties and setting rents.
-# Dynamic rent adjustment and property management
+## Dynamic rent adjustment and property management
 - Players can adjust rent percentages within a specified range when they land on their properties, influencing opponent decisions.
 - If another player lands on a property, they can choose to pay rent or opt for a hotel stay, adding variability to gameplay.
 - Option to increase hotel rent for properties, further intensifying the competition.
-# Interactive in-game shop and item management
+## Interactive in-game shop and item management
 - Players can purchase items like Money Shoes or Invisibility Shoes from an in-game shop, impacting their gameplay strategy.
 - Items provide temporary advantages, such as earning extra money per space traveled, introducing a tactical layer to movement and resource management.
 
