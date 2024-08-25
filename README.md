@@ -46,10 +46,10 @@ Code Analysis
 - Player Interaction: When a player lands on a property, the game checks ownership and prompts the player with the option to buy or adjust rent.
 
 ## Board Controls
-Buy Property:
+### Buy Property:
 - If the property is unowned: The player is prompted with the option to purchase it.
 - If the property is owned by another player: The player must pay rent or choose to pay half the property cost to stay at a hotel, depending on their strategy.
-Adjust Rent:
+### Adjust Rent:
 - If the player owns the property: They can adjust the rent within a defined range (0.1 to 0.7) whenever they land on it. The game enforces this limit to balance gameplay
 
 
