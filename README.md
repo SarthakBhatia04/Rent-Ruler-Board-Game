@@ -39,6 +39,19 @@ In an attempt to add more elements to the game, I hope to make people think abou
 - Players can purchase items like Money Shoes or Invisibility Shoes from an in-game shop, impacting their gameplay strategy.
 - Items provide temporary advantages, such as earning extra money per space traveled, introducing a tactical layer to movement and resource management.
 
+Code Analysis
+=============
+- Property Inheritance: Each property in the game inherits from a base Property class, allowing for consistent management of properties.
+- Rent Calculation: Each property has a function to calculate the rent based on the percentage set by the owner, ensuring dynamic and adjustable rent values during gameplay.
+- Player Interaction: When a player lands on a property, the game checks ownership and prompts the player with the option to buy or adjust rent.
+
+## Board Controls
+Buy Property:
+- If the property is unowned: The player is prompted with the option to purchase it.
+- If the property is owned by another player: The player must pay rent or choose to pay half the property cost to stay at a hotel, depending on their strategy.
+Adjust Rent:
+- If the player owns the property: They can adjust the rent within a defined range (0.1 to 0.7) whenever they land on it. The game enforces this limit to balance gameplay
+
 
 
 
