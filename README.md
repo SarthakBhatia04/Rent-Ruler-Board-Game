@@ -52,14 +52,6 @@ Code Analysis
 ### Adjust Rent:
 - If the player owns the property: They can adjust the rent within a defined range (0.1 to 0.7) whenever they land on it. The game enforces this limit to balance gameplay
 
-
-
-
-
-
-
-# Code analysis
-# User interface 
 Output Screenshots
 =============
 [Shop Scenario](#shop-scenario)  
