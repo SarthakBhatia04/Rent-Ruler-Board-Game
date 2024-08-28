@@ -73,6 +73,11 @@ Once the images are displayed, the player is prompted to view item descriptions 
 
 ![Screenshot 2024-08-28 021538](https://github.com/user-attachments/assets/33f60a44-33d2-4ff5-a7fd-a36bdc91ca56)
 
+## Viewing player-owned properties
+
+At the end of each turn, the player is prompted to choose whether to view their properties, the other player's properties, both, or none. The prompt displays the property spaces, their costs, and the rent set by the player, helping them decide whether to pay for a hotel or not.
+
+
 
 ![Screenshot 2024-08-18 175607](https://github.com/user-attachments/assets/b7a521f8-04da-4006-ad58-aed491f14e8b)
 
