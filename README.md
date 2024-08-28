@@ -62,6 +62,10 @@ Code Analysis
 # User interface 
 Output Screenshots
 =============
+[Shop Scenario](#shop-scenario)  
+[Viewing player-owned properties](#viewing-player-owned-properties)  
+[Example turn of gameplay](#example-turn-of-gameplay)  
+
 ## Shop Scenario: 
 
 The player is introduced to the shop with two timed images: a quick shot of a surprised character and a longer shot of the shop. If the player closes the images, they can skip the timing and proceed directly to the store. 
