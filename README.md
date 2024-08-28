@@ -62,9 +62,10 @@ Code Analysis
 # User interface 
 Output Screenshots
 =============
-Shop Scenario: The player is introduced to the shop with two timed images: a brief shot of a surprised character, followed by a longer shot of the shop. If the player closes the photos, they can bypass the timing and go straight to the store.
+## Shop Scenario: 
+The player is introduced to the shop with two timed images: a quick shot of a surprised character and a longer shot of the shop. If the player closes the images, they can skip the timing and proceed directly to the store. Once the images are displayed, the player is prompted to view item descriptions and prices. After reviewing the descriptions, they're asked if they want to make a purchase, concluding the shopping scenario
 ![Screenshot 2024-08-28 020557](https://github.com/user-attachments/assets/89aed88c-d0c9-47d2-abf0-0510afcca9c3)
-![Screenshot 2024-08-28 013514](https://github.com/user-attachments/assets/e03d0669-8135-4a29-a27a-7d17cfb140c2)
+![Screenshot 2024-08-28 020512](https://github.com/user-attachments/assets/b7f67801-8902-4e6d-9147-d8f1429e5a60)
 
 ![Screenshot 2024-08-18 175607](https://github.com/user-attachments/assets/b7a521f8-04da-4006-ad58-aed491f14e8b)
 
