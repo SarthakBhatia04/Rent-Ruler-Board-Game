@@ -62,7 +62,7 @@ Code Analysis
 # User interface 
 Output Screenshots
 =============
-Shop Scenerio
+Shop Scenario: The player is introduced to the shop with two timed images: a brief shot of a surprised character, followed by a longer shot of the shop.
 ![Screenshot 2024-08-28 013514](https://github.com/user-attachments/assets/e03d0669-8135-4a29-a27a-7d17cfb140c2)
 
 ![Screenshot 2024-08-18 175607](https://github.com/user-attachments/assets/b7a521f8-04da-4006-ad58-aed491f14e8b)
