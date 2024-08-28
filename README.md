@@ -63,7 +63,7 @@ Code Analysis
 Output Screenshots
 =============
 Shop Scenario: The player is introduced to the shop with two timed images: a brief shot of a surprised character, followed by a longer shot of the shop. If the player closes the photos, they can bypass the timing and go straight to the store.
-![Screenshot 2024-08-28 014536](https://github.com/user-attachments/assets/23842226-d1c2-442f-9c3f-106bdbfad9b3)
+![Screenshot 2024-08-28 020557](https://github.com/user-attachments/assets/89aed88c-d0c9-47d2-abf0-0510afcca9c3)
 ![Screenshot 2024-08-28 013514](https://github.com/user-attachments/assets/e03d0669-8135-4a29-a27a-7d17cfb140c2)
 
 ![Screenshot 2024-08-18 175607](https://github.com/user-attachments/assets/b7a521f8-04da-4006-ad58-aed491f14e8b)
